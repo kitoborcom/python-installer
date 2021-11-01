@@ -67,14 +67,6 @@ install_python () {
     echo "Your new Python version should be ${new_version}"
     echo "You can check this yourself by 'python --version'"
     echo "It might be a good idea to update pip with : 'python pip install --upgrade pip'"
-    echo ""
-    echo "Do not forget to give me a tip/donation for my hard :-) work!"
-    echo "https://itheo.tech/donate"
-    echo ""
-    echo "Any questions?"
-    echo "Visit my site and contact me on my contact page https://itheo.tech/contact"
-    echo ""
-    echo "Have Fun!"
 }
 
 if [ -z "$1" ]; then
