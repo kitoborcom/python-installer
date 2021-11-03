@@ -17,10 +17,10 @@ wget -qO - https://raw.githubusercontent.com/kitoborcom/python-installer/main/py
 
 fill in the Python version you want at `[python_verion]`
 
-So, if you want to install version 3.9.7 do:
+So, if you want to install version 3.8.8 do:
 
 ```bash
-wget -qO - https://raw.githubusercontent.com/kitoborcom/python-installer/main/python.sh | sudo bash -s 3.9.7
+sudo wget -qO - https://raw.githubusercontent.com/kitoborcom/python-installer/main/python.sh | sudo bash -s 3.8.8
 ```
 on your Raspberry Pi.
 
